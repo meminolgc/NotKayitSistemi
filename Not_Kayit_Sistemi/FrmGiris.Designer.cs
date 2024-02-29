@@ -75,6 +75,7 @@
 			this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.Name = "FrmGiris";
 			this.Text = "Öğrenci Not Kayıt Sistemi";
+			//this.Load += new System.EventHandler(this.FrmGiris_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
